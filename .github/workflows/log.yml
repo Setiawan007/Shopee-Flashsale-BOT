@@ -36,9 +36,9 @@ jobs:
       - name: second commit
         run: |
           git add .
-          git config user.name 'eeznivx'
-          git config user.email 'vinzeegriffths@gmail.com'
-          git commit -m "jangan lupa follow @Setiawan007"
+          git config user.name 'Setiawan007'
+          git config user.email 'febriantobagussetiawan@gmail.com'
+          git commit -m "Jangan Lupa Follow @Setiawan007"
           git push 
           
       - name: third commit
@@ -47,7 +47,7 @@ jobs:
       - name: finishing
         run: |
           git add .
-          git config user.name 'eeznivx'
-          git config user.email 'vinzeegriffths@gmail.com'
-          git commit -m "jangan lupa follow @Setiawan007"
+          git config user.name 'Setiawan007'
+          git config user.email 'febriantobagussetiawan@gmail.com'
+          git commit -m "Jangan Lupa Follow @Setiawan007"
           git push 
